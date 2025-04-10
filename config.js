@@ -3,14 +3,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  ['5491168352204', 'FG', true],
-  ['5493794297363'],
-  ['59172945992']
+  ['254701309409', 'FG', true],
+  ['254725100848'],
+  ['254706519089']
 ] //Numeros de owner 
 
-global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
-global.botNumber = [''] 
+global.mods = ['public' , 'private'] 
+global.prems = ['254701309409', '254706519089']
+global.botNumber = ['254701309409'] 
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -26,7 +26,7 @@ global.packname = 'DyLux┃ᴮᴼᵀ'
 global.author = '@fg98' 
 
 //--info FG
-global.botName = 'DyLux'
+global.botName = 'lestabot'
 global.fgig = 'https://instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-bot' 
 global.fgyt = 'https://youtube.com/fg98f'
@@ -48,7 +48,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '2' // máxima advertencias
+global.maxwarn = '5' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
