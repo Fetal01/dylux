@@ -3,13 +3,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  ['5491168352204', 'FG', true],
-  ['5493794297363'],
-  ['59172945992']
+  ['254701309409', 'Eliud', true],
+  ['254725100848']
 ] //Numeros de owner 
 
 global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
+global.prems = ['254725100848', '254701309409']
 global.botNumber = [''] 
 global.APIs = { // API Prefix
   // name: 'https://website' 
@@ -26,7 +25,7 @@ global.packname = 'DyLux┃ᴮᴼᵀ'
 global.author = '@fg98' 
 
 //--info FG
-global.botName = 'DyLux'
+global.botName = 'ELIUD_PRO_V1'
 global.fgig = 'https://instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-bot' 
 global.fgyt = 'https://youtube.com/fg98f'
@@ -41,10 +40,10 @@ global.bgp2 = 'https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7'
 global.bgp3 = 'https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH' //--GP NSFW
 
 global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
-global.rwait = '⌛'
+global.rwait = 'Processing⌛'
 global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
+global.done = 'Successfully done ✅'
+global.error = 'not accessible ❌' 
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
